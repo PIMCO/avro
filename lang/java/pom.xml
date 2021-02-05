@@ -67,7 +67,7 @@
     <hamcrest.version>1.3</hamcrest.version>
     <joda.version>2.9.7</joda.version>
     <!-- This Guava version should match Hadoop's Guava version. See AVRO-1781. -->
-    <guava.version>27.0.1-jre</guava.version>
+    <guava.version>27.1-jre</guava.version>
     <findbugs-annotations.version>1.3.9-1</findbugs-annotations.version>
 
     <!-- version properties for plugins -->
@@ -125,7 +125,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -138,7 +138,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -153,7 +153,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
