@@ -53,7 +53,7 @@
     <protobuf.version>2.6.1</protobuf.version>
     <thrift.version>0.9.3</thrift.version>
     <slf4j.version>1.7.22</slf4j.version>
-    <snappy.version>1.1.2.6</snappy.version>
+    <snappy.version>1.1.8.2</snappy.version>
     <velocity.version>1.7</velocity.version>
     <maven.version>2.0.11</maven.version>
     <ant.version>1.10.0</ant.version>
@@ -125,7 +125,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -138,7 +138,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -153,7 +153,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
